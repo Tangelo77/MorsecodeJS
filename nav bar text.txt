@@ -1,0 +1,18 @@
+Titles of nav bar: How to use, About
+
+How to use 
+This is a very good application preferable for people with blindness or any eye dieseases, which limts their reading. For this application
+to be used well we suggest atleast two users, one being the typer(input) and other being the person with blindness(listener). It is preferable
+for the listener to know morse code in order to use this application to its fullest. If the listener does not morse code it is highly suggested
+to teach them using the link below.
+(Hyperlink)
+IT IS PREFEREED FOR THE LISTENER TO USE A PAIR OF HEADPHONES OR EARPHONES FOR BETTER SOUND QUALITY.
+
+
+About 
+
+This application was created by two students of computer science. This project was created by Angelo Peiris and Mohib Qureshi, both creators
+have contributed an equal share to this application. Please use the email address below to contact us. Please donate to this app if possible.
+mohibqureshi101@gmail.com
+angelotelge@gmail.com
+
